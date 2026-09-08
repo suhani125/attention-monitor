@@ -1,0 +1,4 @@
+opencv-python>=4.8,<5
+mediapipe>=1.0.0
+numpy>=1.24,<2
+flask>=3.0
